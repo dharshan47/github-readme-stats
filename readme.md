@@ -113,7 +113,7 @@ Copy and paste this into your markdown, and that's it. Simple!
 Change the `?username=` value to your GitHub username.
 
 ```md
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dharshan47)](https://github.com/dharshan47/github-readme-stats)
+[![Dharshan M's GitHub stats](https://github-readme-stats.vercel.app/api?username=dharshan47)](https://github.com/dharshan47/github-readme-stats)
 ```
 
 > [!WARNING]
@@ -129,7 +129,7 @@ You can pass a query parameter `&hide=` to hide any specific stats with comma-se
 > Options: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats-dharshan47.vercel.app/api?username=dharshan47&hide=contribs,prs)
+![Dharshan M's GitHub stats](https://github-readme-stats-dharshan47.vercel.app/api?username=dharshan47&hide=contribs,prs)
 ```
 
 ### Showing additional individual stats
@@ -139,7 +139,7 @@ You can pass a query parameter `&show=` to show any specific additional stats wi
 > Options: `&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats-dharshan47.vercel.app/api?username=dharshan47&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Dharshan M's GitHub stats](https://github-readme-stats-dharshan47.vercel.app/api?username=dharshan47&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ```
 
 ### Showing icons
@@ -147,7 +147,7 @@ You can pass a query parameter `&show=` to show any specific additional stats wi
 To enable icons, you can pass `&show_icons=true` in the query param, like so:
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats-dharshan47.vercel.app/api?username=dharshan47&show_icons=true)
+![Dharshan M's GitHub stats](https://github-readme-stats-dharshan47.vercel.app/api?username=dharshan47&show_icons=true)
 ```
 
 ### Showing commits count for specified year
@@ -155,7 +155,7 @@ To enable icons, you can pass `&show_icons=true` in the query param, like so:
 You can specify a year and fetch only the commits that were made in that year by passing `&commits_year=YYYY` to the parameter.
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats-dharshan47.vercel.app/api?username=dharshan47&commits_year=2020)
+![Dharshan M's GitHub stats](https://github-readme-stats-dharshan47.vercel.app/api?username=dharshan47&commits_year=2025)
 ```
 
 ### Themes
@@ -165,21 +165,21 @@ With inbuilt themes, you can customize the look of the card without doing any [m
 Use `&theme=THEME_NAME` parameter like so :
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats-dharshan47.vercel.app/api?username=dharshan47&show_icons=true&theme=radical)
+![Dharshan M's GitHub stats](https://github-readme-stats-dharshan47.vercel.app/api?username=dharshan47&show_icons=true&theme=radical)
 ```
 
 #### All inbuilt themes
 
 GitHub Readme Stats comes with several built-in themes (e.g. `dark`, `radical`, `merko`, `gruvbox`, `tokyonight`, `onedark`, `cobalt`, `synthwave`, `highcontrast`, `dracula`).
 
-<img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stats Themes" width="600px"/>
+<img src="https://res.cloudinary.com/dharshan47/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stats Themes" width="600px"/>
 
 You can look at a preview for [all available themes](themes/README.md) or checkout the [theme config file](themes/index.js). Please note that we paused the addition of new themes to decrease maintenance efforts; all pull requests related to new themes will be closed.
 
 #### Responsive Card Theme
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats-dharshan47.vercel.app/api?username=dharshan47\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/dharshan47/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats-dharshan47.vercel.app/api?username=dharshan47\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/dharshan47/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+[![Dharshan M's GitHub stats-Dark](https://github-readme-stats-dharshan47.vercel.app/api?username=dharshan47\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/dharshan47/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+[![Dharshan's GitHub stats-Light](https://github-readme-stats-dharshan47.vercel.app/api?username=dharshan47\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/dharshan47/github-readme-stats#responsive-card-theme#gh-light-mode-only)
 
 Since GitHub will re-upload the cards and serve them from their [CDN](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-anonymized-urls), we can not infer the browser/GitHub theme on the server side. There are, however, four methods you can use to create dynamics themes on the client side.
 
@@ -188,13 +188,13 @@ Since GitHub will re-upload the cards and serve them from their [CDN](https://do
 We have included a `transparent` theme that has a transparent background. This theme is optimized to look good on GitHub's dark and light default themes. You can enable this theme using the `&theme=transparent` parameter like so:
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats-dharshan47.vercel.app/api?username=dharshan47&show_icons=true&theme=transparent)
+![Dharshan M's GitHub stats](https://github-readme-stats-dharshan47.vercel.app/api?username=dharshan47&show_icons=true&theme=transparent)
 ```
 
 <details>
 <summary>:eyes: Show example</summary>
 
-![Anurag's GitHub stats](https://github-readme-stats-dharshan47.vercel.app/api?username=dharshan47\&show_icons=true\&theme=transparent)
+![Dharshan M's GitHub stats](https://github-readme-stats-dharshan47.vercel.app/api?username=dharshan47\&show_icons=true\&theme=transparent)
 
 </details>
 
@@ -584,7 +584,7 @@ You can use the `&layout=pie` option to change the card design.
 You can use the `&hide_progress=true` option to hide the percentages and the progress bars (layout will be automatically set to `compact`).
 
 ```md
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats-dharshan47.vercel.app/api/top-langs/?username=dharshan47&hide_progress=true)
 ```
 
 ### Change format of language's stats
@@ -592,29 +592,29 @@ You can use the `&hide_progress=true` option to hide the percentages and the pro
 You can use the `&stats_format=bytes` option to display the stats in bytes instead of percentage.
 
 ```md
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
+![Top Langs](https://github-readme-stats-dharshan47.vercel.app/api/top-langs/?username=dharshan47&stats_format=bytes)
 ```
 
 
 ### Demo
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+![Top Langs](https://github-readme-stats-dharshan47.vercel.app/api/top-langs/?username=dharshan47)
 
 *   Compact layout
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact)
+![Top Langs](https://github-readme-stats-dharshan47.vercel.app/api/top-langs/?username=dharshan47\&layout=compact)
 
 *   Donut Chart layout
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-dharshan47.vercel.app/api/top-langs/?username=adharshan47\&layout=donut)](https://github.com/dharshan47/github-readme-stats)
 
 *   Donut Vertical Chart layout
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-dharshan47.vercel.app/api/top-langs/?username=dharshan47\&layout=donut-vertical)](https://github.com/dharshan47/github-readme-stats)
 
 *   Pie Chart layout
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-dharshan47.vercel.app/api/top-langs/?username=dharshan47\&layout=pie)](https://github.com/dharshan47/github-readme-stats)
 
 *   Hidden progress bars
 
@@ -714,35 +714,35 @@ Choose from any of the [default themes](#themes)
 
 *   Gradient
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats-dharshan47.vercel.app/api?username=dharshan47\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
 *   Customizing stats card
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
+![Anurag's GitHub stats](https://github-readme-stats-dharshan47.vercel.app/api/?username=dharshan47\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
 
 *   Setting card locale
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra\&locale=es)
+![Anurag's GitHub stats](https://github-readme-stats-dharshan47.vercel.app/api/?username=dharshan47\&locale=es)
 
 *   Customizing repo card
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra\&repo=github-readme-stats\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+![Customized Card](https://github-readme-stats-dharshan47.vercel.app/api/pin?username=dharshan47\&repo=github-readme-stats\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 
 *   Gist card
 
-![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)
+![Gist Card](https://github-readme-stats-dharshan47.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)
 
 *   Customizing gist card
 
-![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=calm)
+![Gist Card](https://github-readme-stats-dharshan47.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=calm)
 
 *   Top languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+![Top Langs](https://github-readme-stats-dharshan47.vercel.app/api/top-langs/?username=dharshan47)
 
 *   WakaTime card
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)
+![Harlok's WakaTime stats](https://github-readme-stats-dharshan47.vercel.app/api/wakatime?username=ffflabs)
 
 ***
 
