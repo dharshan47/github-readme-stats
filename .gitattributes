@@ -1,0 +1,6 @@
+# Force GitHub to treat .ts as TypeScript
+*.ts linguist-language=TypeScript
+
+# Ignore compiled JS and build output
+dist/* linguist-vendored
+build/* linguist-vendored
