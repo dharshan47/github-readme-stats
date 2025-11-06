@@ -49,6 +49,7 @@ export default async (req, res) => {
     rank_icon,
     show,
   } = req.query;
+  const user = username || "dharshan47";
   res.setHeader("Content-Type", "image/svg+xml");
 
   const access = guardAccess({
@@ -86,7 +87,7 @@ export default async (req, res) => {
   try {
     const showStats = parseArray(show);
     const stats = await fetchStats(
-      username,
+      user,
       parseBoolean(include_all_commits),
       parseArray(exclude_repo),
       showStats.includes("prs_merged") ||

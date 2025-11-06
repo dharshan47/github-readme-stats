@@ -43,6 +43,7 @@ export default async (req, res) => {
     hide_progress,
     stats_format,
   } = req.query;
+  const user = username || "dharshan47";
   res.setHeader("Content-Type", "image/svg+xml");
 
   const access = guardAccess({
@@ -119,7 +120,7 @@ export default async (req, res) => {
 
   try {
     const topLangs = await fetchTopLanguages(
-      username,
+      user,
       parseArray(exclude_repo),
       size_weight,
       count_weight,
