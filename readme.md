@@ -618,12 +618,12 @@ You can use the `&stats_format=bytes` option to display the stats in bytes inste
 
 *   Hidden progress bars
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&hide_progress=true)
+![Top Langs](https://github-readme-stats-dharshan47.vercel.app/api/top-langs/?username=dharshan47\&hide_progress=true)
 
 
 *  Display bytes instead of percentage
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&stats_format=bytes)
+![Top Langs](https://github-readme-stats-dharshan47.vercel.app/api/top-langs/?username=dharshan47\&stats_format=bytes)
 
 # WakaTime Stats Card
 
@@ -676,41 +676,41 @@ You can customize the appearance and behavior of the WakaTime stats card using t
 
 *   Default
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Anurag's GitHub stats](https://github-readme-stats-dharshan47.vercel.app/api?username=dharshan47)
 
 *   Hiding specific stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&hide=contribs,issues)
+![Anurag's GitHub stats](https://github-readme-stats-dharshan47.vercel.app/api?username=dharshan47\&hide=contribs,issues)
 
 *   Showing additional stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats-dharshan47.vercel.app/api?username=dharshan47\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 *   Showing icons
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&hide=issues\&show_icons=true)
+![Dharshan M's GitHub stats](https://github-readme-stats-dharshan47.vercel.app/api?username=dharshan47\&hide=issues\&show_icons=true)
 
 *   Shows GitHub logo instead rank level
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&rank_icon=github)
+![Dharshan M's GitHub stats](https://github-readme-stats-dharshan47.vercel.app/api?username=dharshan47\&rank_icon=github)
 
 *   Shows user rank percentile instead of rank level
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&rank_icon=percentile)
+![Anurag's GitHub stats](https://github-readme-stats-dharshan47.vercel.app/api?username=dharshan47\&rank_icon=percentile)
 
 *   Customize Border Color
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&border_color=2e4058)
+![Anurag's GitHub stats](https://github-readme-stats-dharshan47.vercel.app/api?username=dharshan47\&border_color=2e4058)
 
 *   Include All Commits
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats-dharshan47.vercel.app/api?username=dharshan47\&include_all_commits=true)
 
 *   Themes
 
 Choose from any of the [default themes](#themes)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-dharshan47.vercel.app/api?username=dharshan47\&show_icons=true\&theme=radical)
 
 *   Gradient
 
@@ -753,11 +753,11 @@ By default, GitHub does not lay out the cards side by side. To do that, you can 
 ### Stats and top languages cards
 
 ```html
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+<a href="https://github.com/dharshan47/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dharshan47" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/dharshan47/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-dharshan47.vercel.app/api/top-langs?username=dharshan47&layout=compact&langs_count=8&card_width=320" />
 </a>
 ```
 
@@ -933,16 +933,6 @@ See [the Vercel documentation](https://vercel.com/docs/concepts/projects/environ
 
 You can keep your fork, and thus your private Vercel instance up to date with the upstream using GitHub's [Sync Fork button](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork). You can also use the [pull](https://github.com/wei/pull) package created by [@wei](https://github.com/wei) to automate this process.
 
-# :sparkling\_heart: Support the project
-
-I open-source almost everything I can and try to reply to everyone needing help using these projects. Obviously,
-this takes time. You can use this service for free.
-
-However, if you are using this project and are happy with it or just want to encourage me to continue creating stuff, there are a few ways you can do it:
-
-*   Giving proper credit when you use github-readme-stats on your readme, linking back to it. :D
-*   Starring and sharing the project. :rocket:
-*   [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/dharshan47) - You can make a one-time donation via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
 
 Thanks! :heart:
 
